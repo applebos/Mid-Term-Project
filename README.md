@@ -12,10 +12,10 @@
             <p>학번 : 32200921</p>
             <p>좋아하는 여행지 : 일본</p>
             <P>취미 :  그림 그리기</p>
-            <p><img src="C:\git\Git\.git\Mid-Term-Project\Mid-Term-Project\image\KakaoTalk_20230427_140114581.jpg" top:100px left:200px width="250" height="250"><img src="C:\git\Git\.git\Mid-Term-Project\Mid-Term-Project\image\KakaoTalk_20230427_140122743.jpg" top:100px left:200px width="250" height="250"></P>
+            <p><img src="KakaoTalk_20230427_140114581.jpg" top:100px left:200px width="250" height="250"><img src="KakaoTalk_20230427_140122743.jpg" top:100px left:200px width="250" height="250"></P>
             
             <p> 나의 대학교 소개</p>
-            <p><video  src="C:\git\Git\.git\HELLOWORLD\image\images\2022 단국대학교 홍보영상.mp4" width="400" height="400" controls></video></p>
+            <p><video  src="https://www.youtube.com/watch?v=lB1aauEDSCI" width="400" height="400" controls></video></p>
         </h1>
     </body>
 </html>
