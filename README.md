@@ -15,7 +15,7 @@
             <p><img src="KakaoTalk_20230427_140114581.jpg" top:100px left:200px width="250" height="250"><img src="KakaoTalk_20230427_140122743.jpg" top:100px left:200px width="250" height="250"></P>
             
             <p> 나의 대학교 소개</p>
-            <p><video  src="https://www.youtube.com/watch?v=lB1aauEDSCI" width="400" height="400" controls></video></p>
+            <p><video  src="https://www.youtube.com/watch?v=lB1aauEDSCI" width="400" height="400" controls>(https://youtu.be/uLR1RNqJ1Mw?t=0s)</video></p>
         </h1>
     </body>
 </html>
